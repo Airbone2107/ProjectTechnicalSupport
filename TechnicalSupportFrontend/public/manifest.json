@@ -1,0 +1,25 @@
+{
+  "short_name": "Hỗ trợ kỹ thuật",
+  "name": "Trung tâm hỗ trợ kỹ thuật",
+  "icons": [
+    {
+      "src": "hutech-logo.jpg",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "hutech-logo.jpg",
+      "type": "image/jpeg",
+      "sizes": "192x192"
+    },
+    {
+      "src": "hutech-logo.jpg",
+      "type": "image/jpeg",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#2980ef",
+  "background_color": "#ffffff"
+}
