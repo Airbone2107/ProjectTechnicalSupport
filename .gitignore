@@ -365,15 +365,16 @@ FodyWeavers.xsd
 ##########################
 
 # dependencies
-/node_modules
-/.pnp
+**/node_modules/
+**/.pnp/
 .pnp.js
 
 # testing
-/coverage
+**/coverage/
 
 # production
-/dist
+**/dist/
+**/build/
 
 # misc
 .DS_Store
@@ -382,7 +383,7 @@ FodyWeavers.xsd
 .env.test.local
 .env.production.local
 .env
-.vite/
+**/.vite/
 
 npm-debug.log*
 yarn-debug.log*
