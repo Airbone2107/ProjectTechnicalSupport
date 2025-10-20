@@ -197,4 +197,3 @@ Dự án có sẵn một số tài khoản mẫu để bạn đăng nhập và t
 - **Frontend báo lỗi khi đăng nhập/tải dữ liệu:**
   - **Nguyên nhân:** Backend API chưa được khởi động.
   - **Giải pháp:** Hãy chắc chắn rằng bạn đã khởi chạy backend từ Visual Studio trước khi sử dụng frontend.
-```
